@@ -29,5 +29,8 @@ on http://vagrantcloud.com .)
     git checkout collab/phasefx/wheezy_installer
 </code></pre>
 
-5. Run the install script.
+5. Run the install script.  See instructions here:
+
+http://git.evergreen-ils.org/?p=working/random.git;a=blob_plain;f=README;h=c399f57;hb=refs/heads/collab/phasefx/wheezy_installer
+
 
